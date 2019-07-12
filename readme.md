@@ -36,8 +36,7 @@ This project was done by Lennox and submitted to The Kenya National Examinations
                         The candidate with the highest number of votes for each post is declared the winner. The results
                         of the election are forwarded to the school principal who then approves and announces the final
                         results.</p>
-                    </p>
- ## What I was expected to do
+ ##  What I was expected to do
  <p>Develop a well documented computerised prefects election system that will:</p>
  <ul>
     <li>Maintain:
@@ -74,8 +73,6 @@ This project was done by Lennox and submitted to The Kenya National Examinations
             </ol>
            </li>
     </ul>
-## Contribution
-Thank you for considering contributing to this project! The contribution guide can be found in the Laravel documentation.
-Security Vulnerabilities
+##  Contribution
  <b>Found a bug?</b>
 I am still new to web development and I know I've made a lot of mistakes in this project. If you discover any error,a security vulnerability or have an idea to better this app, feel free to contact me via omondilenox@outlook.com
