@@ -1,71 +1,81 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
-
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1100 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost you and your team's skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Introduction
+This project was done by Lennox and submitted to The Kenya National Examinations Council for the award for KCSE Certificate. 
+## About this project
+<h1>Rehema School Prefects Electoral System</h1>
+<p>Rehema school is a day secondary school with enrolment in; form one, form two, form three and
+                        form four. The students&rsquo; prefects&rsquo; system is in three levels; school level,<br/>
+                        form level and class (stream) level. At the school level prefects&rsquo; positions comprise of
+                        the head boy, the head girl, dining hall captain, games captain and the library captain. The
+                        form level positions comprise of form captains who are in charge of all the streams in their
+                        respective forms. The class level positions comprise of the class prefects who are in charge of
+                        their respective classes and are answerable to their respective form captains. All the positions
+                        are elective and the holders serve for a one-year term.<br/>
+                        The school elections are held at the beginning of each year. Only form three students are
+                        eligible for school level positions. The school level prefects are elected by all the students
+                        in the school. A form level captain is elected by all the students in the streams in his/her own
+                        form. A class prefect is elected by members of his/her own class (stream).<br/>
+                        Students who intend to vie for the positions are required to be vetted by the school
+                        administration. The successful candidates are required to provide their personal details which
+                        would be used in the ballot papers. The school level and the form level contestants (candidates)
+                        are vetted by the school administration, while the class level contestants are vetted by their
+                        respective class teachers. One of the requirements in the vetting is that each contestant must
+                        have been<br/>
+                        proposed and seconded by their electorate (students). Those seeking school level positions are
+                        required to be seconded by a student from each class in their respective forms. Those seeking
+                        class level positions are required to be seconded by two students from their respective classes.<br/>
+                        Voting is carried out in every classroom concurrently, where the respective class teacher
+                        presides over the exercise. On the day of voting, the class teachers collect ballot papers for
+                        each of the elective positions for their respective classes. During voting, students are
+                        required to indicate their preference on the ballot papers by placing a tick (&radic;) against
+                        the candidate of their choice and inserting the ballot papers in their respective ballot
+                        boxes.<br/>
+                        Counting of votes is carried out in the respective classes and the results are recorded,
+                        announced and taken to a tallying centre. At the tallying centre, the form level and the school
+                        level vote results from the classes are combined and the total votes for each candidate
+                        recorded.<br/>
+                        The candidate with the highest number of votes for each post is declared the winner. The results
+                        of the election are forwarded to the school principal who then approves and announces the final
+                        results.</p>
+                    </p>
+ ## What I was expected to do
+ <p>Develop a well documented computerised prefects election system that will:</p>
+ <ul>
+    <li>Maintain:
+    <ul>
+        <li>records of classes and their respective class teachers;</li>
+        <li>list of contestants for each post</li>
+        <li>list of electoral positions</li>
+        <li>list of students per class</li>
+        <li>list of proposers and seconders</li>
+        <li>results for each level</li>
+     </ul>
+    </li>  
+        <li>
+            Compute:
+                <ol>
+                    <li>total votes for each contestant at:
+                                <ul>
+                                    <li>school level</li>
+                                    <li>form level</li>
+                                </ul>
+                    </li>
+                    <li>the winner for each level</li>
+                    <li>determine the contestants with adequate proposers and seconders</li>
+            </ol>       
+        </li>    
+        <li>generate the following reports
+             <ol>
+                    <li>voters list</li>
+                    <li>list of contestants for each post</li>
+                    <li>list of class teachers</li>
+                    <li>list of winners for each post</li>
+                    <li>list of spoilt votes from each class</li>
+                    <li>list of contestants and votes garnered</li>
+            </ol>
+           </li>
+    </ul>
+## Contribution
+Thank you for considering contributing to this project! The contribution guide can be found in the Laravel documentation.
+Security Vulnerabilities
+ <b>Found a bug?</b>
+I am still new to web development and I know I've made a lot of mistakes in this project. If you discover any error,a security vulnerability or have an idea to better this app, feel free to contact me via omondilenox@outlook.com
